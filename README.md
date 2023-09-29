@@ -1,2 +1,5 @@
-# lotr
-SDK for lotr - if only the fellowship had this.
+# lotrsdk
+SDK for lotrsdk - if only the fellowship had this.
+
+
+TODO - Add links to currentfeatures.md and futurefeatures.md
